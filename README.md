@@ -51,4 +51,4 @@ npm test
 
 If you have questions about the repo, open an issue or contact me directly at g_hardlotte@hotmail.com.  You can find more of my work at [Ghardlotte](https://github.com/Ghardlotte/).
 
-![image](https://user-images.githubusercontent.com/70107564/100567606-826f2900-328e-11eb-9f4c-9fa614ba3855.png)
+https://drive.google.com/file/d/1WjMM9bLZLpOt7HO9QUhuzeS9KHljnobC/view
